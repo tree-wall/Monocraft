@@ -4921,6 +4921,21 @@
 		"character": "≠"
 	},
 	{
+		"codepoint": 8776,
+		"name": "almost_equal_to",
+		"pixels": [
+			[0, 0, 0, 0, 0, 0],
+			[0, 1, 1, 0, 0, 1],
+			[1, 0, 0, 1, 1, 0],
+			[0, 0, 0, 0, 0, 0],
+			[0, 1, 1, 0, 0, 1],
+			[1, 0, 0, 1, 1, 0],
+			[0, 0, 0, 0, 0, 0]
+		],
+		"group": "mathematical_operators",
+		"character": "≈"
+	},
+	{
 		"codepoint": 8722,
 		"name": "minus_sign",
 		"pixels": [
